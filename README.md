@@ -9,6 +9,8 @@
 ![SCSS](https://img.shields.io/badge/-scss-0D1117?style=for-the-badge&logo=sass&logoColor=purple&labelColor=0D1117)&nbsp;
 
 <p>O projeto inovador foi desenvolvido utilizando a poderosa biblioteca React. Este blog oferece uma experiência envolvente e interativa para os entusiastas de tecnologia, apresentando conteúdos relevantes sobre as últimas tendências, análises de produtos e tutoriais práticos.</p>
+
+<a href="https://technology-blog-tan.vercel.app/"><strong>Demonstração ao vivo</strong></a>
 </div><br>
 
 
